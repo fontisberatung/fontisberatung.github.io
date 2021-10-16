@@ -528,7 +528,7 @@ section {
 
 #about .about-text {
   line-height: 26px;
-  min-height:80px;
+  min-height:93px;
   padding: 0;
   margin: 0 0 15px 0px;
   background-color: #1b2c48;
@@ -536,8 +536,15 @@ section {
   border-radius: 3px;
 }
 .clasetexto{
-  margin: 0 58px 20px 96px;
+  margin: 0 0 20px 0;
+  padding: 20px 4px 0 4px;
+  text-align: center;
+}
 
+.clasetexto2{
+  margin: 0 0 20px 0;
+  padding: 35px 4px 0 4px;
+  text-align: center
 }
 
 #about .about-text:last-child {
