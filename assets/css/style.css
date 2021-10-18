@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Welcome
 --------------------------------------------------------------*/
-@media(max-width:600px){
+/* @media(max-width:600px){
 
   #hero {
     background: url(../img/bg_inicio_mob.jpg) top center;
@@ -99,12 +99,13 @@ h1, h2, h3, h4, h5, h6 {
     background: url(../img/bg_inicio_desk.jpg) top center;
     }
 
-}
+} */
 
 #hero {
   display: table;
   width: 100%;
   height: 100vh;
+  background: url(../img/bg_inicio_desk.jpg) top center;
   background-size: cover;
 }
 
